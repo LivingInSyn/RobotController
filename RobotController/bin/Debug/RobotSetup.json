@@ -1,0 +1,25 @@
+{  
+   "MaxX":5,
+   "MaxY":5,
+   "Steps":"FFFRFFLFFFFRLFFFR",
+   "ObstacleObjects":[  
+      {  
+         "XLoc":1,
+         "YLoc":2,
+         "Type":"Rock",
+         "Obstacle":"{'CanNavigate':false}"
+      },
+      {  
+         "XLoc":1,
+         "YLoc":2,
+         "Type":"Hole",
+         "Obstacle":"{'CanNavigate':true,'NewX':3,'NewY':3}"
+      },
+      {
+         "XLoc":2,
+         "YLoc":2,
+         "Type":"Spinner",
+         "Obstacle":"{'CanNavigate':true,'Direction':true,'Turns':2}"
+      }
+   ]
+}

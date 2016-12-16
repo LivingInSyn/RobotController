@@ -1,0 +1,9 @@
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\bin\Debug\RobotControllerTests.dll
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\bin\Debug\RobotControllerTests.pdb
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\bin\Debug\RobotController.exe
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\bin\Debug\RobotController.pdb
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\obj\Debug\RobotControllerTests.csprojResolveAssemblyReference.cache
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\obj\Debug\RobotControllerTests.dll
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\obj\Debug\RobotControllerTests.pdb
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmill\Documents\RobotController\RobotControllerTests\bin\Debug\Newtonsoft.Json.xml
